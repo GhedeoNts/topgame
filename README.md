@@ -1,7 +1,7 @@
 # Descente produit basique avec rawg.io
 <br/>
 
-![img](src/public/images/image-topgame.jpeg)
+![img](public/images/image-topgame.jpeg)
 
 <br/>
 
