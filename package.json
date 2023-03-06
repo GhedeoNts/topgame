@@ -1,0 +1,9 @@
+{
+  "name": "topgame",
+  "version": "1.0.0",
+  "description": "Réaliser un prototype de site e-commerce (visualisation produit et navigation catégorie) en consommant des api externes.",
+  "main": "index.js",
+  "repository": "https://github.com/GhedeoNts/topgame",
+  "author": "ghedeonts",
+  "license": "MIT"
+}
